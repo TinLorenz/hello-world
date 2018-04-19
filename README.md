@@ -2,4 +2,4 @@
 
 A GitHub Tutorial.
 
-Cambiamenti vari (...)
+Cambiamenti vari (...).
